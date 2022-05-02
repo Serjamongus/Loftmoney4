@@ -11,6 +11,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main);
 
-        // Go started to recyclerview
 
 }
+// TODO: We will work with recyclerview
+// Commit is work
+
