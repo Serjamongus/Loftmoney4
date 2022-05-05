@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Loftmoney4</string>
+    <string name="expense">Expense</string>
+    <string name="expense_title">Expense title</string>
+    <string name="add_button_text">Add</string>
+
 </resources>

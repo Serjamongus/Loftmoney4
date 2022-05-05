@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/ic_add_green.xml" value="0.206" />
+        <entry key="app/src/main/res/drawable/ic_checka.xml" value="0.206" />
+        <entry key="app/src/main/res/layout/activity_add_item.xml" value="0.3936798095703125" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.146875" />
+        <entry key="app/src/main/res/layout/add_item_activity.xml" value="0.1" />
       </map>
     </option>
   </component>
