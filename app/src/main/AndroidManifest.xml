@@ -19,7 +19,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".AdditemActivity"
+            android:name=".AddItemActivity"
             android:exported="false">
         </activity>
     </application>

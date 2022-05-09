@@ -39,5 +39,7 @@ app:layout_constraintStart_toStartOf="parent"
     app:layout_constraintEnd_toEndOf="parent"
 android:text="@string/add_button_text"
 android:textColor="@color/accent_color"
-android:drawableLeft="@drawable/ic_add_green"
+android:drawableLeft="@drawable/ic_add_green">
+
+</Button>
 </androidx.constraintlayout.widget.ConstraintLayout>
