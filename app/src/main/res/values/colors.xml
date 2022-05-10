@@ -9,4 +9,5 @@
   <color name="primary_color">#FF3574FA</color>
     <color name="white">#FFFFFFFF</color>
 <color name="accent_color">#FF7ED321</color>
+<color name="default_text_grey">#E3E3E3</color>
 </resources>
