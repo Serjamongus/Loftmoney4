@@ -26,6 +26,7 @@ tools:text=""
         android:layout_height="64dp"
         android:layout_marginHorizontal="32dp"
         android:hint="@string/expense_title"
+tools:text=""
         android:textColor="@color/primary_color"
         app:layout_constraintTop_toBottomOf="@id/expense_tv"
         android:layout_marginTop="8dp" />
@@ -41,7 +42,7 @@ app:layout_constraintStart_toStartOf="parent"
 android:enabled="false"
     android:text="@string/add_button_text"
 android:textColor="@drawable/selector_button_text"
-android:drawableLeft="@drawable/selector_button_icon">
+android:drawableStart="@drawable/selector_button_icon">
 
 </Button>
 </androidx.constraintlayout.widget.ConstraintLayout>
