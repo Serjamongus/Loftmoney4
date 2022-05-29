@@ -4,13 +4,17 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/button_selector.xml" value="0.206" />
+        <entry key="app/src/main/res/drawable/ic_add_circle_orange.xml" value="0.1855" />
         <entry key="app/src/main/res/drawable/ic_add_green.xml" value="0.206" />
         <entry key="app/src/main/res/drawable/ic_add_grey.xml" value="0.206" />
+        <entry key="app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.206" />
         <entry key="app/src/main/res/drawable/ic_checka.xml" value="0.206" />
         <entry key="app/src/main/res/drawable/selector_button_text.xml" value="0.206" />
-        <entry key="app/src/main/res/layout/activity_add_item.xml" value="0.20018615722656252" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.146875" />
+        <entry key="app/src/main/res/layout-ru/activity_add_item.xml" value="0.31521739130434784" />
+        <entry key="app/src/main/res/layout/activity_add_item.xml" value="0.2925521850585937" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.165" />
         <entry key="app/src/main/res/layout/add_item_activity.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_money.xml" value="0.25" />
       </map>
     </option>
   </component>
