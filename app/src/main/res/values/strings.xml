@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name" translatable="false">Loftmoney4</string>
 
-    <string name="price">Price</string>
-    <string name="title">Title</string>
-    <string name="add_button_text">Add</string>
+    <string name="price" translatable="false">Price</string>
+    <string name="title" translatable="false">Title</string>
+    <string name="add_button_text" translatable="false">Add</string>
 
 </resources>
